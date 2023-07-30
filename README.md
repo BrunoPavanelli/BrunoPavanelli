@@ -13,8 +13,8 @@
   <h3 align="left">Back-End Development:</h3>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <br />
   <h3 align="left">Front-End Development:</h3>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -42,7 +42,6 @@
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoPavanelli&show_icons=true&theme=tokyonight)
 
 <br />
-#
 
 ### 📫 How to reach me:
 
