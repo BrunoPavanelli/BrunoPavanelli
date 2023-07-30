@@ -1,6 +1,6 @@
 <h3>I am Bruno Pavanelli. I am a  Web Full Stack Developer <img align="center" src="https://img.icons8.com/color/26/000000/github-2.png"/> focused in Back-End 👨‍💻</h3> 
 
-# ☑️ Here's my github stats:
+# ▶️ Here's my github stats:
 
 | ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=BrunoPavanelli&show_icons=true&theme=react)             | ![BrunoPavanelli GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoPavanelli&theme=react)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
