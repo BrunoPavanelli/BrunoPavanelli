@@ -12,20 +12,20 @@
   <img width="15%" src="https://img.shields.io/badge/JAVASCRIPT-000000?logo=javascript&logoColor=000000&color=d5e262">
   <img width="15%" src="https://img.shields.io/badge/TYPESCRIPT-000000?logo=typescript&logoColor=000000&color=d5e262">
   <img width="11.5%" src="https://img.shields.io/badge/PYTHON-000000?logo=python&logoColor=000000&color=d5e262">
-    <img width="7.5%" src="https://img.shields.io/badge/PHP-000000?logo=php&logoColor=000000&color=d5e262">
+  <img width="7.5%" src="https://img.shields.io/badge/PHP-000000?logo=php&logoColor=000000&color=d5e262">
 
-  <img width="11.5%" src="https://img.shields.io/badge/NODEJS-000000?logo=node.js&logoColor=000000&color=62e2a2">
-  <img width="14.5%" src="https://img.shields.io/badge/EXPRESSJS-000000?logo=express&logoColor=000000&color=62e2a2">
-  <img width="11.25%" src="https://img.shields.io/badge/NESTJS-000000?logo=nestjs&logoColor=000000&color=62e2a2">
-  <img width="11.75%" src="https://img.shields.io/badge/DJANGO-000000?logo=django&logoColor=000000&color=62e2a2">
+  <img width="11.25%" src="https://img.shields.io/badge/NODEJS-000000?logo=node.js&logoColor=000000&color=62e2a2">
+  <img width="14%" src="https://img.shields.io/badge/EXPRESSJS-000000?logo=express&logoColor=000000&color=62e2a2">
+  <img width="10.75%" src="https://img.shields.io/badge/NESTJS-000000?logo=nestjs&logoColor=000000&color=62e2a2">
+  <img width="11.5%" src="https://img.shields.io/badge/DJANGO-000000?logo=django&logoColor=000000&color=62e2a2">
 
-  <img width="10.3%" src="https://img.shields.io/badge/REACTJS-000000?logo=react&logoColor=000000&color=%2362b3e2">
+  <img width="11.5%" src="https://img.shields.io/badge/REACTJS-000000?logo=react&logoColor=000000&color=%2362b3e2">
   <img width="24%" src="https://img.shields.io/badge/STYLED%20COMPONENTS-000000?logo=styled-components&logoColor=000000&color=%2362b3e2">
   <img width="9%" src="https://img.shields.io/badge/CSS3-000000?logo=css3&logoColor=000000&color=%2362b3e2">
-  <img width="9%" src="https://img.shields.io/badge/HTML5-000000?logo=html5&logoColor=000000&color=%2362b3e2">
+  <img width="10.25%" src="https://img.shields.io/badge/HTML5-000000?logo=html5&logoColor=000000&color=%2362b3e2">
 
-  <img width="15.5%" src="https://img.shields.io/badge/POSTGRESQL-000000?logo=postgresql&logoColor=000000&color=62d3e2">
-  <img width="10.25%" src="https://img.shields.io/badge/MYSQL-000000?logo=mysql&logoColor=000000&color=62d3e2">
+  <img width="16.5%" src="https://img.shields.io/badge/POSTGRESQL-000000?logo=postgresql&logoColor=000000&color=62d3e2">
+  <img width="10.75%" src="https://img.shields.io/badge/MYSQL-000000?logo=mysql&logoColor=000000&color=62d3e2">
 
   <img width="11.75%" src="https://img.shields.io/badge/DOCKER-000000?logo=docker&logoColor=000000&color=686868">
 
