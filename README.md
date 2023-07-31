@@ -4,7 +4,7 @@
 
 | ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=BrunoPavanelli&show_icons=true&theme=react)             | ![BrunoPavanelli GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoPavanelli&theme=react)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPavanelli&langs_count=8&theme=react&layout=compact) ||
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPavanelli&langs_count=8&theme=react&layout=compact) |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoPavanelli&theme=react)|
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -36,8 +36,6 @@
   <img width="9%" src="https://img.shields.io/badge/YARN-000000?logo=yarn&logoColor=000000&color=%23ac76df">
 </p>
 
-# 🔷 Statistics</b>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoPavanelli&theme=react)
 
 # 📫 Contact me:</b>
 - ➡️ Linkedin: [https://www.linkedin.com/in/bruno-pavanelli/](https://www.linkedin.com/in/bruno-pavanelli/)
