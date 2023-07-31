@@ -1,4 +1,4 @@
-<h3>Hello! I'm Bruno Pavanelli 🔛 <br/> Web Full Stack Developer <img align="center" src="https://img.icons8.com/color/26/000000/github-2.png"/> focused in Back-End 👨‍💻</h3> 
+<h3>Hello! I'm Bruno Pavanelli 🔛 <br/> Web Full Stack Developer <img align="center" src="https://img.icons8.com/color/26/000000/github-2.png"/> focused on Back-End 👨‍💻</h3> 
 
 # ▶️ Here's my github stats:
 
@@ -38,7 +38,6 @@
 <br />
 
 # 🔷 Statistics</b>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoPavanelli&theme=react)
 
 # 📫 Contact me:</b>
