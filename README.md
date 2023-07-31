@@ -1,7 +1,7 @@
 <h3>Hello! I'm Bruno Pavanelli 🔛 <br/> Web Full Stack Developer <img align="center" src="https://img.icons8.com/color/26/000000/github-2.png"/> focused on Back-End 👨‍💻</h3> 
 
 - 🔭 I’m currently working on [ContactBook](https://github.com/BrunoPavanelli/ContactBook)
-- 📘 I’m currently learning **NestJS**, **Connections Protocols**, **SOLID** and getting deeper in **OOP**
+- 📘 I’m currently learning **NestJS**, **Network Protocols**, **SOLID** and getting deeper in **OOP**
 - 📂 My portfolio is avaliable at [https://portfolio-six-ochre-59.vercel.app/](https://portfolio-six-ochre-59.vercel.app/)
 
 # ▶️ Here's my github stats:
