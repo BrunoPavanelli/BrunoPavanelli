@@ -2,7 +2,7 @@
 
 # ▶️ Here's my github stats:
 
-| ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=BrunoPavanelli&show_icons=true&theme=react)             | ![BrunoPavanelli GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoPavanelli&theme=react)                                                                                                           |
+| ![BrunoPavanelli's github stats](https://github-readme-stats.vercel.app/api?username=BrunoPavanelli&showicons=true&theme=react) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoPavanelli&theme=react) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPavanelli&langs_count=8&theme=react&layout=compact) |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoPavanelli&theme=react)|
 
