@@ -35,7 +35,6 @@
   <img width="8%" src="https://img.shields.io/badge/NPM-000000?logo=npm&logoColor=000000&color=%23ac76df">
   <img width="9%" src="https://img.shields.io/badge/YARN-000000?logo=yarn&logoColor=000000&color=%23ac76df">
 </p>
-<br />
 
 # 🔷 Statistics</b>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoPavanelli&theme=react)
